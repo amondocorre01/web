@@ -1,0 +1,1 @@
+import{s as n,d as t,j as r}from"./index-52773940.js";const a=n("div")(({theme:s})=>({margin:"30px",[s.breakpoints.down("sm")]:{margin:"16px"},"& .breadcrumb":{marginBottom:"30px",[s.breakpoints.down("sm")]:{marginBottom:"16px"}}})),e=()=>(t(),r.jsxs(a,{children:[r.jsx(InventarioCierre,{}),r.jsx("div",{children:"AppEchart "})]}));export{e as default};
