@@ -1,0 +1,1 @@
+import{s as r,j as t}from"./index-83f9e817.js";const n=r("div")(({theme:o})=>({margin:"30px",[o.breakpoints.down("sm")]:{margin:"16px"},"& .breadcrumb":{marginBottom:"30px",[o.breakpoints.down("sm")]:{marginBottom:"16px"}}})),a=()=>t.jsx(n,{});export{a as default};
